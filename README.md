@@ -71,7 +71,7 @@ Built an *Agentic AI-based Retrieval-Augmented Generation (RAG)* system that:
 ### Steps
 1. Clone the repository:
     bash
-    git clone https://github.com/msa23003/agentic-ai-rag-system.git
+    git clone https://github.com/msa23003/agentic-research-assistant.git
     cd agentic-ai-rag-system
     
 2. Install dependencies:
